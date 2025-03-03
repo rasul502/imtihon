@@ -1,0 +1,90 @@
+.g2{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+    border: 3px solid red;
+}
+.g3{
+    color: red;
+}
+.g4{
+    color: green;
+}
+.g5{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.g7{
+    width: 800px ;
+}
+.g6{
+    width: 600px ;
+}
+.g8{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.g9{
+    background-color: black;
+    border-radius: 10px;
+}
+div{
+    text-align: center;
+}
+.xx{
+    color: green;
+}
+.s{
+    color: green;
+}
+input{
+    width: 100%;
+}
+.f{
+    background-color: blue;
+    width: 20%;
+}
+.d{
+    background-color: yellow;
+    color: green;
+    text-align: center; 
+}
+
+th{
+    border: 1px solid;
+    padding: 5px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.j{
+    background-color: green;
+    color: aliceblue;
+}
+.k{
+    background-color: blue;
+    color: aliceblue;
+}
+.j2{
+    background-color: red;
+    color: aliceblue;
+}
+.k1{
+    background-color: black;
+    color: aliceblue;
+}
+.j3{
+    background-color: red;
+    color: aliceblue;
+}
+.k3{
+    background-color: black;
+    color: aliceblue;
+}
+
